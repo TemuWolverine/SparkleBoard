@@ -5737,7 +5737,7 @@
 		(dnp no)
 		(uuid "2201e099-804e-4cb3-ba8d-dd1a0e847fd5")
 		(property "Reference" "U2"
-			(at 128.016 23.622 90)
+			(at 123.698 23.622 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5746,8 +5746,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 128.27 31.75 0)
+		(property "Value" "AONR21307"
+			(at 128.27 21.844 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7351,10 +7351,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7a160b98-6566-4985-9059-a80b4d29733a")
 		(property "Reference" "U1"
-			(at 29.21 44.4499 0)
+			(at 26.416 45.466 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7364,8 +7363,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
-			(at 36.83 44.45 0)
+		(property "Value" "C9900066641"
+			(at 30.48 43.434 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8902,7 +8901,7 @@
 		(dnp no)
 		(uuid "cf0cf796-4722-405b-829c-d5723f4c5c82")
 		(property "Reference" "U3"
-			(at 106.934 65.278 0)
+			(at 106.426 67.056 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8911,8 +8910,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 104.14 55.88 0)
+		(property "Value" "HUSB238"
+			(at 109.474 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
