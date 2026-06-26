@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](plots/sparkleboard5v.png)
 
 # SparkleBoard 5v (WIP)
 SparkleBoard is a USB-PD power board that provides two power rails - one is user selectable from 12v, 15v, 18v or 20v (if the USB-PD power brick supports it) by using jumpers. The other power rail is 5v for microcontrollers.
